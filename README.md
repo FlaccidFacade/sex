@@ -1,5 +1,4 @@
-# SEX – Simply Elegant X-components
+# sex
+simply elegant x-components
 
-A framework-agnostic library of elegant, reusable UI components.
-
-Coming soon.
+This is a framework agnostic library to alleviate common issues and integrate seamlessly in all available  frameworks.
