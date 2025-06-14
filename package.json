@@ -1,0 +1,10 @@
+{
+  "name": "sex-components",
+  "version": "1.0.0",
+  "description": "A framework-agnostic library of elegant, reusable UI components. Coming soon.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "FlaccidFacade",
+  "license": "ISC"
+}
